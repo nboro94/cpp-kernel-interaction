@@ -1,5 +1,3 @@
-# cpp-kernel-interaction/cpp-kernel-interaction/README.md
-
 # C++ Kernel Interaction Project
 
 This project demonstrates basic interactions with the kernel using C++. It includes examples of system calls and reading system information.
